@@ -1,3 +1,7 @@
+# Author: Kai Zhang
+# Stevens Institute of Technology
+
+
 #from subprocess import call
 #Upload = "home/pi/Dropbox_Uploader/dropbox_uploader.sh upload homr/kai/kevin helloWindows"
 #call ([Upload], shell=True)
