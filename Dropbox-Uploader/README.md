@@ -4,7 +4,7 @@ Dropbox Uploader is a **BASH** script which can be used to upload, download, del
 
 It's written in BASH scripting language and only needs **cURL**.
 
-You can take a look to the [GiHub project page](https://github.com/andreafabrizi/Dropbox-Uploader).
+You can take a look to the [GiHub project page](https://github.com/zjzk99/EE-800-L).
 
 **Why use this script?**
 
