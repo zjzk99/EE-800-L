@@ -1,5 +1,5 @@
 
-# EE-800-L
+# CPE/EE-800-L: Special Problems in CPE/EE (M.Eng) 
 
 ## COURSE DESCRIPTION
 
