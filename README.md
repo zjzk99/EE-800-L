@@ -1,4 +1,35 @@
 # EE-800-L
+
+COURSE DESCRIPTION
+
+This course provides hands-on projects including both physical and logical design practices on special problems in electrical and computer engineering. It focuses on use cases for the Internet of Things (IoT) and its building blocks such as sensor networks, communication protocols, application programming interfaces (APIs), and data analysis.
+
+ 
+
+LEARNING OBJECTIVES
+
+Upon completing this course, students should be able to:
+
+Understand the IoT architectures and building blocks
+Understand the IoT use cases and design methodology
+Develop working code for real-world IoT applications
+Understand IoT data analysis
+ 
+
+FORMAT AND STRUCTURE
+
+This course is comprised of weekly discussions and hands-on work.
+
+ 
+
+COURSE MATERIALS      
+
+ (Links to an external site.)Links to an external site.
+
+Hardware recommended: Raspberry Pi 3 Model B, 32-GB micro SD card with a full-size SD adapter, and 5.25V 2.4A power supply with a micro-USB connector
+
+Software: https://github.com/kevinwlu/iot (Links to an external site.)Links to an external site.
+
 Cite by: 
 @inproceedings{cao2017realtime,
   author = {Zhe Cao and Tomas Simon and Shih-En Wei and Yaser Sheikh},
