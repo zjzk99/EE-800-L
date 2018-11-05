@@ -38,3 +38,11 @@ This course is comprised of weekly discussions and hands-on work.
   title = {Convolutional pose machines},
   year = {2016}
   }
+
+@inoriceedings{ author = {Ildoo Kim},
+  github repository ={https://github.com/ildoonet/tf-pose-estimation}
+}
+
+@inoriceedings{ author = {Andrea Fabrizi},
+  github repository ={https://github.com/andreafabrizi/Dropbox-Uploader}
+}
