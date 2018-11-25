@@ -1,7 +1,7 @@
 
-# CPE/EE-800-L: Special Problems in CPE/EE (M.Eng) 
+# Intelligent Surveillance
 
-## COURSE DESCRIPTION
+## Project DESCRIPTION
 
 This course provides hands-on projects including both physical and logical design practices on special problems in electrical and computer engineering. It focuses on use cases for the Internet of Things (IoT) and its building blocks such as sensor networks, communication protocols, application programming interfaces (APIs), and data analysis.
 

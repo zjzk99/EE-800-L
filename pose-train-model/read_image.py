@@ -11,7 +11,7 @@ import os
 import glob  
   
   
-# 训练时所用输入长、宽和通道大小  
+# length, width 
 w = 28  
 h = 28   
 # 将标签转换成one-hot矢量  
@@ -22,7 +22,7 @@ def to_one_hot(label):
     return label_one  
 # 读入图片并转化成相应的维度  
 def read_img(path):  
-    cate   = [path + x for x in os.listdir(path) if os.path.isdir(path + x)]  
+    cate   = [path + '/' +x for x in os.listdir(path) if os.path.isdir(path +'/' + x )]   
     imgs   = []  
     labels = []  
     for idx, folder in enumerate(cate):  
