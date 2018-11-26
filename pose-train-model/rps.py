@@ -14,12 +14,12 @@ import cv2
 import RPi.GPIO as GPIO  
 import signal  
 import atexit  
-# 舵机旋转的角度  
+ 
 def rotate(p, angle):  
     p.ChangeDutyCycle(7.5+10*angle/180)  
     time.sleep(1)  
     p.ChangeDutyCycle(0)  
-# 石头剪刀布主程序  
+# 主程序  
 def rps(model_dir, classes, p):  
       
     clicked = False    
